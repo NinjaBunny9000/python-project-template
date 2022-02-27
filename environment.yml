@@ -1,0 +1,5 @@
+name: python-project
+dependencies:
+  - python=3.9
+  - rich
+  - python-dotenv

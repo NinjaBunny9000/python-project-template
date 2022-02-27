@@ -1,0 +1,5 @@
+############################### CONFIG SETTINGS ################################
+# if you need to provide config/editable settings for your script, you can store
+# and configure them here.
+
+DATA_SOURCE_PATH=C:/path/to/data.pkl
