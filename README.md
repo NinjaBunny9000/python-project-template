@@ -4,11 +4,6 @@
 </br>
 
   [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
-  
-
-  [![Made with - Electron](https://img.shields.io/badge/Made_with-Electron-informational?logo=Electron&logoColor=white)](https://gis.stackexchange.com/)
-  [![Made with - React](https://img.shields.io/badge/Made_with-React-informational?logo=React&logoColor=white)](https://reactjs.org)
-  [![Made with Docker](https://img.shields.io/badge/Made_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/ "Go to Docker homepage")
 
 </div>
 
