@@ -3,7 +3,7 @@
 # Bun's Python Project Boilerplate Template
 </br>
 
-  [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?)](/docs/ "Go to project documentation") [![Build Status](https://app.travis-ci.com/NinjaBunny9000/python-project-template.svg?branch=main)](https://app.travis-ci.com/NinjaBunny9000/python-project-template)
+  [![Python application](https://github.com/NinjaBunny9000/python-project-template/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/NinjaBunny9000/python-project-template/actions/workflows/python-app.yml) [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?)](/docs/ "Go to project documentation") 
 
 </div>
 
